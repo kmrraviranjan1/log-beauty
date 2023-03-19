@@ -1,0 +1,28 @@
+{
+  "name": "log-beauty",
+  "version": "0.0.1",
+  "description": "a npm package to log variables and messages in a beautiful and meaningful way",
+  "type":"module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmrraviranjan1/log-beauty.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "meaningful-console",
+    "beautify",
+    "beautify-console"
+  ],
+  "author": "Ravi Ranjan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmrraviranjan1/log-beauty/issues"
+  },
+  "homepage": "https://github.com/kmrraviranjan1/log-beauty#readme"
+}
